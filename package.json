@@ -1,0 +1,25 @@
+{
+  "name": "balanced-brackets",
+  "version": "1.0.0",
+  "description": "JavaScript kata tested with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cosmin-Croitoriu/Balanced-Brackets.git"
+  },
+  "keywords": [
+    "Habs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cosmin-Croitoriu/Balanced-Brackets/issues"
+  },
+  "homepage": "https://github.com/Cosmin-Croitoriu/Balanced-Brackets#readme",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
