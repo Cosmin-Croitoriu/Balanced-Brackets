@@ -4,16 +4,16 @@
   "description": "JavaScript kata tested with Jest",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Cosmin-Croitoriu/Balanced-Brackets.git"
   },
   "keywords": [
-    "Habs"
+    ""
   ],
-  "author": "",
+  "author": "Habs",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Cosmin-Croitoriu/Balanced-Brackets/issues"
