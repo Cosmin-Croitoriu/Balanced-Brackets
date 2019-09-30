@@ -16,3 +16,9 @@ test ("returns FAIL if the brackets are not balanced", () => {
     expect(balancedBrackets('][][][')).toBe('FAIL');
 });
 
+test ("returns OK if the brackets are balanced", () => {
+    expect(balancedBrackets('[[[][]]]')).toBe('OK');
+});
+
+
+
