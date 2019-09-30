@@ -12,3 +12,7 @@ test ("returns FAIL if string's First bracket is closed", () => {
     expect(balancedBrackets('][][]')).toBe('FAIL');
 });
 
+test ("returns FAIL if the brackets are not balanced", () => {
+    expect(balancedBrackets('][][][')).toBe('FAIL');
+});
+
